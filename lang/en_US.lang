@@ -74,6 +74,9 @@ yua.commands.grumpy.response=**%s** is grumpy!
 ## Happy
 yua.commands.happy.description=User is happy
 yua.commands.happy.response=**%s** is happy! | **%s** is happy because of **%s**!
+## Hate
+yua.commands.hate.description=User is hating another user
+yua.commands.hate.response=**%s** hates another user! | **%s** hates **%s**!
 ## Hello
 yua.commands.hello.description=User is saying hello to another user
 yua.commands.hello.response=**%s** is saying hello! | **%s** is saying hello to **%s**!
