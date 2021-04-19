@@ -1,0 +1,202 @@
+######## Commands ########
+
+#### Roleplay >> If a roleplay command is both a towards and solo concatenate with "|", Use "%s" for name insertions
+
+## Baka
+yua.commands.baka.description=User zegt dat User een Baka is
+yua.commands.baka.response=**%s** zegt dat **%s** een Baka is!
+## Bite
+yua.commands.bite.description=User bijt user
+yua.commands.bite.response=**%s** bijt **%s**!
+## Blowkiss
+yua.commands.blowkiss.description=User blaast een kus naar user
+yua.commands.blowkiss.response=**%s** blaast een kus naar **%s**!
+## Blush
+yua.commands.blush.description= User is aan het blosen
+yua.commands.blush.response= **%s** is aan het blosen! | **%s** is aan het blozen door **%s**!
+## Boast
+yua.commands.boast.description= User Is aan het opscheppen
+yua.commands.boast.response=**%s** Is aan het opscheppen!
+## Bonk
+yua.commands.bonk.description= User is User aan het bonken
+yua.commands.bonk.response=**%s** is **%s** aan het bonken!
+## Bored
+yua.commands.bored.description=User is verveeld
+yua.commands.bored.response=**%s** is verveeld!
+## Bye
+yua.commands.bye.description=User zwaait user gedag 
+yua.commands.bye.response=**%s** zegt Doei Doei! | **%s** zegt tegen **%s** dat hij/zij moet gaan
+## Cheer
+yua.commands.cheer.description=User is aan het Juichen
+yua.commands.cheer.response=**%s** is aan het juichen! | **%s** is aan het juichen met **%s**
+## Confused
+yua.commands.confused.description=User is verward
+yua.commands.confused.response=**%s** is vereward!
+## Cry
+yua.commands.cry.description=User is aan het huilen
+yua.commands.cry.response=**%s** is aan het huilen!
+## Cute
+yua.commands.cute.description=User is schattig aan het doen
+yua.commands.cute.response=**%s** is schattig aan het doen!
+## Dab
+yua.commands.dab.description=User is aan het dabben 
+yua.commands.dab.response=**%s** is aan het dabben!
+## Dance
+yua.commands.dance.description=User is aan het dansen       
+yua.commands.dance.response=**%s** is aan het dansen!
+## Dead
+yua.commands.dead.description=user is dood
+yua.commands.dead.response=**%s** is dood!
+## Eat
+yua.commands.eat.description=User is aan het eten
+yua.commands.eat.response=**%s** is aan het eten! | **%s** is aan het eten met **%s**!
+## Facepalm
+yua.commands.facepalm.description=User is facepalmt
+yua.commands.facepalm.response=**%s** facepalmt!
+## Fear
+yua.commands.fear.description=User is bang voor User
+yua.commands.fear.response=**%s** is bang voor **%s**!
+## Feed
+yua.commands.feed.description=User geeft User eten
+yua.commands.feed.response=**%s** geeft **%s** eten!
+## Fight
+yua.commands.fight.description=User is aan het vechten met User
+yua.commands.fight.response=**%s** is aan het vechten met **%s**!
+## Glomp
+yua.commands.glomp.description=User 
+yua.commands.glomp.response=**%s** is aan het rennen voor een knuffel van **%s**!
+## Goodmorning
+yua.commands.goodmorning.description=User zegt Goedemorgen
+yua.commands.goodmorning.response=**%s** zegt Goedemorgen tegen iedereen! | **%s** wenst **%s** een goedeochtend!
+## Goodnight
+yua.commands.goodnight.description=User wenst User een goedeavond 
+yua.commands.goodnight.response=**%s** wenst iedereen een goedeavond! | **%s** wenst **%s** een goedeavond!
+## Grumpy
+yua.commands.grumpy.description=User is chagrijing
+yua.commands.grumpy.response=**%s** is chagrijing!
+## Happy
+yua.commands.happy.description=User is bij
+yua.commands.happy.response=**%s** is blij! | **%s** is blij door **%s**!
+## Hate
+yua.commands.hate.description=User haat User
+yua.commands.hate.response=**%s** haat User! | **%s** haat **%s**!
+## Hello 
+yua.commands.hello.description=User zegt hallo tegen User
+yua.commands.hello.response=**%s** zegt hallo! | **%s** zegt hallo tegen **%s**!
+## Highfive
+yua.commands.highfive.description=User geeft User een highfive
+yua.commands.highfive.response=**%s** highfives **%s**!
+## Hug
+yua.commands.hug.description=User knuffelt User
+yua.commands.hug.response=**%s** knuffelt **%s**!
+## Kill
+yua.commands.kill.description=User vermoord User
+yua.commands.kill.response=**%s** vermoord **%s**!
+## Kiss
+yua.commands.kiss.description=User is User aan het kussen
+yua.commands.kiss.response=**%s** kust **%s**
+## Laugh
+yua.commands.laugh.description=User is aan het lachen 
+yua.commands.laugh.response=**%s** is aan het lachen!
+## Lewd
+yua.commands.lewd.description=User is ontduchtig
+yua.commands.lewd.response=**%s** is ontduchtig! | **%s** is ontduchtig met **%s** OwO!
+## Lick
+yua.commands.lick.description=User likt User
+yua.commands.lick.response=**%s** is **%s** aan het likken
+## Love
+yua.commands.love.description=User is verlieft op User
+yua.commands.love.response=**%s** houd van **%s**!
+## Lurk
+yua.commands.lurk.description=User is aan het lurken
+yua.commands.lurk.response=**%s** is aan het lurken!
+## Mad
+yua.commands.mad.description=User is boos
+yua.commands.mad.response=**%s** is boos!
+## No
+yua.commands.no.description=User zegt nee
+yua.commands.no.response=**%s** zegt nee! | **%s** is het oneens met **%s**!
+## Nom
+yua.commands.nom.description=User wordt genomt door User
+yua.commands.nom.response=**%s** nomt **%s**!
+## Nope
+yua.commands.nope.description=User zegt nee
+yua.commands.nope.response=**%s** zegt nee, gewoon nee!
+## Panic
+yua.commands.panic.description=User is in paniek
+yua.commands.panic.response=**%s** is in paniek | **%s** is in paniek door **%s**!
+## Pat
+yua.commands.pat.description=User geeft User een hoofdklopje
+yua.commands.pat.response=**%s** geeft **%s** een hoofdklopje!
+## Peck
+yua.commands.peck.description=User pecks another user
+yua.commands.peck.response=**%s** pecks **%s**!
+## Poke
+yua.commands.poke.description=User is User aan het porren
+yua.commands.poke.response=**%s** is **%s** aan het porren
+## Pout
+yua.commands.pout.description=User pruilt
+yua.commands.pout.response=**%s** pruilt! | **%s** is aan het pruilen door **%s**!
+## Respect
+yua.commands.respect.description=User toont respect
+yua.commands.respect.response=**%s** is respect aan het tonen! F!
+## Run
+yua.commands.run.description=User rent
+yua.commands.run.response=**%s** is aan het rennen! | **%s** rent weg van **%s**!
+## Sad
+yua.commands.sad.description=User is verdrietig
+yua.commands.sad.response=**%s** is verdrietig! | **%s** is verdrietig door **%s**!
+## Salute
+yua.commands.salute.description=User staat saluut
+yua.commands.salute.response=**%s** staat saluut! | **%s** staat saluut voor **%s**!
+## Shrug
+yua.commands.shrug.description=User haalt zijn armen op
+yua.commands.shrug.response=**%s** haalt zijn armen op!
+## Shy
+yua.commands.shy.description=User is verlegen
+yua.commands.shy.response=**%s** is verlegen!
+## Sip
+yua.commands.sip.description=User is aan het nippen
+yua.commands.sip.response=**%s** is aan het nippen!
+## Slap
+yua.commands.slap.description=User mept User
+yua.commands.slap.response=**%s** is **%s** aan het meppen!
+## Sleep
+yua.commands.sleep.description=User slaapt
+yua.commands.sleep.response=**%s** is aan het slapen!
+## Smart
+yua.commands.smart.description=User heeft big brain
+yua.commands.smart.response=**%s** heeft big brain!
+## Smile
+yua.commands.smile.description=User glimlacht
+yua.commands.smile.response=**%s** is aan het glimlachen | **%s** is aan het glimlachen naar **%s**!
+## Stab
+yua.commands.stab.description=User steekt User
+yua.commands.stab.response=**%s** steekt **%s**!
+## Stare
+yua.commands.stare.description=User staart naar User
+yua.commands.stare.response=**%s** is aan het staren! | **%s** staart naar user!
+## Thumbsup
+yua.commands.thumbsup.description=User steekt zn duim op 
+yua.commands.thumbsup.response=**%s** user geeft een duimpie! | **%s** heeft **%s** goedgekeurd
+## Tickle
+yua.commands.tickle.description=User kietelt User
+yua.commands.tickle.response=**%s** Kietelt **%s**!
+## Tired
+yua.commands.tired.description=User is moe
+yua.commands.tired.response=**%s** is slaperig! 
+## Vibe
+yua.commands.vibe.description=User is aan het viben
+yua.commands.vibe.response=**%s** is aan het viben | **%s** is vibe aan het zetten met **%s**!
+## Wag
+yua.commands.wag.description=User is aan het kwispelen
+yua.commands.wag.response=**%s** kwispelt zijn staart!
+## Wave
+yua.commands.wave.description=User zwaait
+yua.commands.wave.response=**%s** zwaait naar **%s**!
+## Wink
+yua.commands.wink.description=User knipoogt 
+yua.commands.wink.response=**%s** knipoogt! | **%s** is aan het knipogen naar **%s**!
+## Yes
+yua.commands.yes.description=User zegt ja
+yua.commands.yes.response=**%s** zegt ja! | **%s** is het eens met **%s**!
