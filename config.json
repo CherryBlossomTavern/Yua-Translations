@@ -1,6 +1,7 @@
 {
     "default": "en_US",
     "langs":[
-        "en_US"
+        "en_US",
+        "it_IT"
     ]
 }
