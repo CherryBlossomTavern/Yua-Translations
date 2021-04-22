@@ -3,200 +3,200 @@
 #### Roleplay >> If a roleplay command is both a towards and solo concatenate with "|", Use "%s" for name insertions
 
 ## Baka
-yua.commands.baka.description=User is calling another user baka
-yua.commands.baka.response=**%s** calls **%s** a baka!
+yua.commands.baka.description=Un utente sta chiamando un altro utente baka
+yua.commands.baka.response=**%s** chiama **%s** baka!
 ## Bite
-yua.commands.bite.description=User is biting another user
-yua.commands.bite.response=**%s** is biting **%s**!
+yua.commands.bite.description=Un utente sta mordendo un altro utente
+yua.commands.bite.response=**%s** sta mordendo **%s**!
 ## Blowkiss
-yua.commands.blowkiss.description=User is blowing a kiss to another user
-yua.commands.blowkiss.response=**%s** is blowing a kiss! Mwah! | **%s** blows a kiss to **%s**!
+yua.commands.blowkiss.description=Un utente sta mandando un bacio ad un altro utente
+yua.commands.blowkiss.response=**%s** sta mandando un bacio! Mwah! | **%s** manda un bacio a **%s**!
 ## Blush
-yua.commands.blush.description=User is blushing
-yua.commands.blush.response=**%s** is blushing! | **%s** is blushing because of **%s**!
+yua.commands.blush.description=Un utente sta arrossendo
+yua.commands.blush.response=**%s** sta arrossendo! | **%s** sta arrossendo a causa di **%s**!
 ## Boast
-yua.commands.boast.description=User is boasting
-yua.commands.boast.response=**%s** is boasting!
+yua.commands.boast.description=Un utente si sta vantando
+yua.commands.boast.response=**%s** si sta vantando!
 ## Bonk
-yua.commands.bonk.description=User is bonking another user
-yua.commands.bonk.response=**%s** is bonking **%s**!
+yua.commands.bonk.description=Un utente sta colpendo un altro utente
+yua.commands.bonk.response=**%s** sta colpendo **%s**!
 ## Bored
-yua.commands.bored.description=User is bored
-yua.commands.bored.response=**%s** is bored!
+yua.commands.bored.description=Un utente è annoiato
+yua.commands.bored.response=**%s** è annoiato!
 ## Bye
-yua.commands.bye.description=User is waving another user goodbye
-yua.commands.bye.response=**%s** is saying goodbye! | **%s** is telling **%s** bye!
+yua.commands.bye.description=Un utente sta salutando un altro utente
+yua.commands.bye.response=**%s** sta dicendo arrivederci! | **%s** sta dicendo a **%s** ciao!
 ## Cheer
-yua.commands.cheer.description=User is cheering
-yua.commands.cheer.response=**%s** is cheering! | **%s** is cheering with **%s**!
+yua.commands.cheer.description=Un utente sta esultando
+yua.commands.cheer.response=**%s** sta esultando! | **%s** sta esultando con **%s**!
 ## Confused
-yua.commands.confused.description=User is confused
-yua.commands.confused.response=**%s** is confused!
+yua.commands.confused.description=Un utente è confuso
+yua.commands.confused.response=**%s** è confuso!
 ## Cry
-yua.commands.cry.description=User is crying
-yua.commands.cry.response=**%s** is crying! | **%s** is crying because of **%s**!
+yua.commands.cry.description=Un utente sta piangendo
+yua.commands.cry.response=**%s** sta piangendo! | **%s** sta piangendo a causa di **%s**!
 ## Cute
-yua.commands.cute.description=User is being cute
-yua.commands.cute.response=**%s** is being cute!
+yua.commands.cute.description=Un utente sta facendo il carino
+yua.commands.cute.response=**%s** sta facendo il carino!
 ## Dance
-yua.commands.dance.description=User is dancing
-yua.commands.dance.response=**%s** is dancing! | **%s** is dancing with **%s**!
+yua.commands.dance.description=Un utente sta ballando
+yua.commands.dance.response=**%s** sta ballando! | **%s** sta ballando con **%s**!
 ## Dead
-yua.commands.dead.description=User is dead
-yua.commands.dead.response=**%s** is dead!
+yua.commands.dead.description=Un utente è morto
+yua.commands.dead.response=**%s** è morto!
 ## Eat
-yua.commands.eat.description=User is eating
-yua.commands.eat.response=**%s** is eating! | **%s** is eating with **%s**!
+yua.commands.eat.description=Un utente sta mangiando
+yua.commands.eat.response=**%s** sta mangiando! | **%s** sta mangiando con **%s**!
 ## Facepalm
-yua.commands.facepalm.description=User is facepalming
-yua.commands.facepalm.response=**%s** is facepalming!
+yua.commands.facepalm.description=Un utente si sta sbattendo la mano sulla fronte
+yua.commands.facepalm.response=**%s** si sta sbattendo la mano sulla fronte!
 ## Fear
-yua.commands.fear.description=User is in fear of another user
-yua.commands.fear.response=**%s** fears **%s**!
+yua.commands.fear.description=Un utente è impaurito da un altro utente
+yua.commands.fear.response=**%s** teme **%s**!
 ## Feed
-yua.commands.feed.description=User is feeding another user
-yua.commands.feed.response=**%s** is feeding **%s**!
+yua.commands.feed.description=Un utente sta imboccando un altro utente
+yua.commands.feed.response=**%s** sta imboccando **%s**!
 ## Fight
-yua.commands.fight.description=User is fighting another user
-yua.commands.fight.response=**%s** is fighting **%s**!
+yua.commands.fight.description=Un utente sta combattendo un altro utente
+yua.commands.fight.response=**%s** sta combattendo **%s**!
 ## Glomp
-yua.commands.glomp.description=User is glomping
-yua.commands.glomp.response=**%s** is running for a hug with **%s**
+yua.commands.glomp.description=Un utente sta correndo per un abbraccio
+yua.commands.glomp.response=**%s** sta correndo per un abbraccio da **%s**
 ## Goodmorning
-yua.commands.goodmorning.description=User is wishing another user goodmorning
-yua.commands.goodmorning.response=**%s** wishes everyone a good morning! | **%s** wishes **%s** a good morning!
+yua.commands.goodmorning.description=Un utente sta augurando ad un altro utente un buongiorno
+yua.commands.goodmorning.response=**%s** augura a tutti una buona giornata! | **%s** augura a **%s** una buona giornata!
 ## Goodnight
-yua.commands.goodnight.description=User is wishing another user goodnight
-yua.commands.goodnight.response=**%s** wishes everyone a good night! | **%s** wishes **%s** a good night!
+yua.commands.goodnight.description=Un utente augurando ad un altro utente una buona notte
+yua.commands.goodnight.response=**%s** augura a tutti una buona notte! | **%s** augura a **%s** una buona notte!
 ## Grumpy
-yua.commands.grumpy.description=User is grumpy
-yua.commands.grumpy.response=**%s** is grumpy!
+yua.commands.grumpy.description=Un utente è scontroso
+yua.commands.grumpy.response=**%s** è scontroso!
 ## Happy
-yua.commands.happy.description=User is happy
-yua.commands.happy.response=**%s** is happy! | **%s** is happy because of **%s**!
+yua.commands.happy.description=Un utente è felice
+yua.commands.happy.response=**%s** è felice! | **%s** è felice a causa di **%s**!
 ## Hate
-yua.commands.hate.description=User is hating another user
-yua.commands.hate.response=**%s** hates another user! | **%s** hates **%s**!
+yua.commands.hate.description=Un utente sta odiando un altro utente
+yua.commands.hate.response=**%s** odia un altro utente! | **%s** odia **%s**!
 ## Hello
-yua.commands.hello.description=User is saying hello to another user
-yua.commands.hello.response=**%s** is saying hello! | **%s** is saying hello to **%s**!
+yua.commands.hello.description=Un utente sta dicendo ciao ad un altro utente
+yua.commands.hello.response=**%s** sta dicendo ciao! | **%s** sta dicendo ciao a **%s**!
 ## Highfive
-yua.commands.highfive.description=User is Highfiving another user
-yua.commands.highfive.response=**%s** highfives **%s**!
+yua.commands.highfive.description=Un utente sta dando il cinque ad un altro utente
+yua.commands.highfive.response=**%s** sta dando il cinque a **%s**!
 ## Hug
-yua.commands.hug.description=User is hugging another user
-yua.commands.hug.response=**%s** is giving **%s** a hug!
+yua.commands.hug.description=Un utente sta abbracciando un altro utente
+yua.commands.hug.response=**%s** sta abbracciando **%s**!
 ## Kill
-yua.commands.kill.description=User is killing another user
-yua.commands.kill.response=**%s** killed **%s**!
+yua.commands.kill.description=Un utente sta uccidendo un altro utente
+yua.commands.kill.response=**%s** ha ucciso **%s**!
 ## Kiss
-yua.commands.kiss.description=User is kissing another user
-yua.commands.kiss.response=**%s** kisses **%s**!
+yua.commands.kiss.description=Un utente sta baciando un altro utente
+yua.commands.kiss.response=**%s** sta baciando **%s**!
 ## Laugh
-yua.commands.laugh.description=User is laughing
-yua.commands.laugh.response=**%s** is laughing!
+yua.commands.laugh.description=Un utente sta ridendo
+yua.commands.laugh.response=**%s** sta ridendo!
 ## Lewd
-yua.commands.lewd.description=User is lewd
-yua.commands.lewd.response=**%s** is being lewd! | **%s** is being lewd with **%s** uwu!
+yua.commands.lewd.description=Un utente è volgare
+yua.commands.lewd.response=**%s** sta facendo il volgare! | **%s** sta facendo il volgare con **%s** uwu!
 ## Lick
-yua.commands.lick.description=User licks another user
-yua.commands.lick.response=**%s** is licking **%s**!
+yua.commands.lick.description=Un utente sta leccando un altro utente
+yua.commands.lick.response=**%s** sta leccando **%s**!
 ## Love
-yua.commands.love.description=User is in love with another user
-yua.commands.love.response=**%s** loves **%s**!
+yua.commands.love.description=Un utente è innamorato di un altro utente
+yua.commands.love.response=**%s** ama **%s**!
 ## Lurk
-yua.commands.lurk.description=User is lurking
-yua.commands.lurk.response=**%s** is lurking!
+yua.commands.lurk.description=Un utente è in agguato
+yua.commands.lurk.response=**%s** iè in agguato!
 ## Mad
-yua.commands.mad.description=User is mad
-yua.commands.mad.response=**%s** is mad! | **%s** is mad at **%s**!
+yua.commands.mad.description=Un utente è arrabbiato
+yua.commands.mad.response=**%s** è arrabbiato! | **%s** è arrabbiato con **%s**!
 ## No
-yua.commands.no.description=User is saying no
-yua.commands.no.response=**%s** says no! | **%s** disagrees with **%s**!
+yua.commands.no.description=Un utente sta dicendo no
+yua.commands.no.response=**%s** dice di no! | **%s** non è d'accordo con **%s**!
 ## Nom
-yua.commands.nom.description=User is noming another user
-yua.commands.nom.response=**%s** noms **%s**!
+yua.commands.nom.description=Un utente sta nominando un altro utente
+yua.commands.nom.response=**%s** ha nominato **%s**!
 ## Nope
-yua.commands.nope.description=User is saying nope
-yua.commands.nope.response=**%s** is saying "nope, just nope!"
+yua.commands.nope.description=Un utente sta dicendo no
+yua.commands.nope.response=**%s** sta dicendo "no, proprio no!"
 ## Panic
-yua.commands.panic.description=User is panicking
-yua.commands.panic.response=**%s** is panicking! | **%s** is panicking because of **%s**!
+yua.commands.panic.description=Un utente è nel panico
+yua.commands.panic.response=**%s** è nel panico! | **%s** è nel panico a causa di **%s**!
 ## Pat
-yua.commands.pat.description=User is patting another user
-yua.commands.pat.response=**%s** pats **%s**!
+yua.commands.pat.description=Un utente sta dando delle pacche ad un altro utente
+yua.commands.pat.response=**%s** ha dato una pacca a **%s**!
 ## Peck
-yua.commands.peck.description=User is pecking another user
-yua.commands.peck.response=**%s** is pecking **%s**!
+yua.commands.peck.description=Un utente sta beccando un altro utente
+yua.commands.peck.response=**%s** sta beccando **%s**!
 ## Poke
-yua.commands.poke.description=User is poking another user
-yua.commands.poke.response=**%s** pokes **%s**!
+yua.commands.poke.description=Un utente sta stuzzicando un altro utente
+yua.commands.poke.response=**%s** sta stuzzicando **%s**!
 ## Pout
-yua.commands.pout.description=User is pouting
-yua.commands.pout.response=**%s** is pouting! | **%s** is pouting because of **%s**!
+yua.commands.pout.description=Un utente è imbronciato
+yua.commands.pout.response=**%s** è imbronciato! | **%s** è imbronciato a causa di **%s**!
 ## Run
-yua.commands.run.description=User is running
-yua.commands.run.response=**%s** is running! | **%s** is running from **%s**!
+yua.commands.run.description=Un utente sta correndo
+yua.commands.run.response=**%s** sta correndo! | **%s** sta correndo da **%s**!
 ## Sad
-yua.commands.sad.description=User is sad
-yua.commands.sad.response=**%s** is sad! | **%s** is sad because of **%s**!
+yua.commands.sad.description=Un utente è triste
+yua.commands.sad.response=**%s** è triste! | **%s** è triste a causa di **%s**!
 ## Shrug
-yua.commands.shrug.description=User is shrugging
-yua.commands.shrug.response=**%s** shrugs!
+yua.commands.shrug.description=Un utente sta facendo spallucce
+yua.commands.shrug.response=**%s** sta facendo spallucce!
 ## Shy
-yua.commands.shy.description=User is being shy
-yua.commands.shy.response=**%s** is being shy!
+yua.commands.shy.description=Un utente fa il timido
+yua.commands.shy.response=**%s** fa il timido!
 ## Sip
-yua.commands.sip.description=User is taking a sip
-yua.commands.sip.response=**%s** takes a sip! | **%s** is taking a sip with **%s**!
+yua.commands.sip.description=Un utente sta sorseggiando
+yua.commands.sip.response=**%s** sta sorseggiando! | **%s** sta sorseggiando con **%s**!
 ## Sleep
-yua.commands.sleep.description=User is sleeping
-yua.commands.sleep.response=**%s** is sleeping!
+yua.commands.sleep.description=Un utente sta dormendo
+yua.commands.sleep.response=**%s** sta dormendo!
 ## Smart
-yua.commands.smart.description=User is being smart
-yua.commands.smart.response=**%s** is being mega brain! | **%s** is calling **%s** a mega brain!
+yua.commands.smart.description=Un utente sta facendo l'intelligente
+yua.commands.smart.response=**%s** sta facendo il cervellone! | **%s** sta chiamando **%s** cervellone!
 ## Smile
-yua.commands.smile.description=User is smiling
-yua.commands.smile.response=**%s** is smiling! | **%SENDER*%** is smiling at **%s**!
+yua.commands.smile.description=Un utente sta sorridendo
+yua.commands.smile.response=**%s** sta sorridendo! | **%SENDER*%** sta sorridendo a **%s**!
 ## Stab
-yua.commands.stab.description=User is stabbing another user
-yua.commands.stab.response=**%s** is stabbing **%s**!
+yua.commands.stab.description=Un utente sta accoltellando un altro utente
+yua.commands.stab.response=**%s** sta accoltellando **%s**!
 ## Stare
-yua.commands.stare.description=User is staring at another user
-yua.commands.stare.response=**%s** is staring! | **%s** stares at **%s**!
+yua.commands.stare.description=Un utente sta fissando un altro utente
+yua.commands.stare.response=**%s** sta fissando! | **%s** sta fissando **%s**!
 ## Thumbsup
-yua.commands.thumbsup.description=User is giving a thumbs up
-yua.commands.thumbsup.response=**%s** gives thumbsup! | **%s** approves **%s**!
+yua.commands.thumbsup.description=Un utente sta dando un pollice in su
+yua.commands.thumbsup.response=**%s** da un pollice in su! | **%s** approva **%s**!
 ## Tickle
-yua.commands.tickle.description=User is tickling another user
-yua.commands.tickle.response=**%s** tickles **%s**!
+yua.commands.tickle.description=Un utente sta solleticando un altro utente
+yua.commands.tickle.response=**%s** solleticando **%s**!
 ## Tired
-yua.commands.tired.description=User is tired
-yua.commands.tired.response=**%s** is sleepy!
+yua.commands.tired.description=Un utente è stanco
+yua.commands.tired.response=**%s** è stanco!
 ## Vibe
-yua.commands.vibe.description=User is vibing
-yua.commands.vibe.response=**%s** is vibin'! | **%s** is vibin' with **%s**!
+yua.commands.vibe.description=Un utente si sta rilassando
+yua.commands.vibe.response=**%s** si sta rilassando'! | **%s** si sta rilassando con **%s**!
 ## Wag
-yua.commands.wag.description=User is wagging 
-yua.commands.wag.response=**%s** is wagging their tail!
+yua.commands.wag.description=Un utente sta scodinzolando 
+yua.commands.wag.response=**%s** sta scodinzolando!
 ## Wave
-yua.commands.wave.description=User is waving at another user
-yua.commands.wave.response=**%s** waves at **%s**!
+yua.commands.wave.description=Un utente sta salutando un altro utente
+yua.commands.wave.response=**%s** saluta **%s**!
 ## Wink
-yua.commands.wink.description=User is winking at another user
-yua.commands.wink.response=**%s** is winking! | **%s** winks at **%s**!
+yua.commands.wink.description=Un utente sta ammiccando ad un altro utente
+yua.commands.wink.response=**%s** sta ammiccando! | **%s** ammiccare a **%s**!
 ## Yes
-yua.commands.yes.description=User is saying yes
-yua.commands.yes.response=**%s** agrees! | **%s** agrees with **%s**!
+yua.commands.yes.description=Un utente sta dicendo sì
+yua.commands.yes.response=**%s** è d'accordo! | **%s** è d'accordo con **%s**!
 ## Dab
-yua.commands.dab.description=User is dabbing
-yua.commands.dab.response=**%s** is dabbing! | **%s** is dabbing on **%s**!
+yua.commands.dab.description=Un utente sta dabbando
+yua.commands.dab.response=**%s** sta dabbando! | **%s** sta dabbando su di **%s**!
 ## Slap
-yua.commands.slap.description=User is slapping another user
-yua.commands.slap.response=**%s** is slapping **%s**!
+yua.commands.slap.description=Un utente sta schiaffeggiando un altro utente
+yua.commands.slap.response=**%s** sta schiaffeggiando **%s**!
 ## Salute
-yua.commands.salute.description=User is saluting
-yua.commands.salute.response=**%s** is saluting! | **%s** is saluting to **%s**!
+yua.commands.salute.description=Un utente sta salutando
+yua.commands.salute.response=**%s** sta salutando! | **%s** sta salutando **%s**!
 ## Respect
-yua.commands.respect.description=User is paying respect
-yua.commands.respect.response=**%s** is paying respect! F!
+yua.commands.respect.description=Un utente sta rendendo omaggio
+yua.commands.respect.response=**%s** sta rendendo omaggio! F!
