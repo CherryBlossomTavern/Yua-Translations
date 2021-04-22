@@ -3,7 +3,7 @@
 #### Roleplay >> If a roleplay command is both a towards and solo concatenate with "|", Use "%s" for name insertions
 
 ## Baka
-yua.commands.baka.description=Un utente sta chiamando un altro utente baka
+yua.commands.baka.description=Un utente sta chiamando baka un altro utente
 yua.commands.baka.response=**%s** chiama **%s** baka!
 ## Bite
 yua.commands.bite.description=Un utente sta mordendo un altro utente
