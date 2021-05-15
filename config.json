@@ -2,6 +2,7 @@
     "default": "en_US",
     "langs":[
         "en_US",
-        "it_IT"
+        "it_IT",
+        "zh_CN"
     ]
 }
