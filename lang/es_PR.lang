@@ -158,7 +158,7 @@ yua.commands.smart.description=El usuario está siendo inteligente
 yua.commands.smart.response=**%s** está siendo mega intelligente! | **%s** esta llamando **%s** un mega cerebro!
 ## Smile
 yua.commands.smile.description=El usuario está sonriendo
-yua.commands.smile.response=**%s** está sonriendo! | **%SENDER*%** está sonriendo a **%s**!
+yua.commands.smile.response=**%s** está sonriendo! | **%s** está sonriendo a **%s**!
 ## Stab
 yua.commands.stab.description=El usuario está apuñalando a otro usuario
 yua.commands.stab.response=**%s** está apuñalando **%s**!
