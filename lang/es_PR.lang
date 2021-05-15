@@ -40,7 +40,7 @@ yua.commands.cry.response=**%s** esta en llantos! | **%s** esta en llantos por *
 yua.commands.cute.description=Usario esta siendo linda
 yua.commands.cute.response=**%s** esta siendo linda!
 ## Dance
-yua.commands.dance.description=Usario esta bailando is dancing
+yua.commands.dance.description=Usario esta bailando
 yua.commands.dance.response=**%s** esta bailando! | **%s** esta bailando con **%s**!
 ## Dead
 yua.commands.dead.description=Usario esta muerto
@@ -61,8 +61,8 @@ yua.commands.feed.response=**%s** esta alimentando **%s**!
 yua.commands.fight.description=El usario esta luchando con otro usario
 yua.commands.fight.response=**%s** esta luchando **%s**!
 ## Glomp
-yua.commands.glomp.description=User is glomping
-yua.commands.glomp.response=**%s** is running for a hug with **%s**
+yua.commands.glomp.description=El usario corre a dar un abarazo
+yua.commands.glomp.response=**%s** corre a dar un abrazo con **%s**
 ## Goodmorning
 yua.commands.goodmorning.description=El usuario desea buenos días a otro usuario
 yua.commands.goodmorning.response=**%s** les desea a todos un buen día! | **%s** desea  **%s** un buen día!
@@ -97,35 +97,35 @@ yua.commands.kiss.response=**%s** beso **%s**!
 yua.commands.laugh.description=El usario se esta riendo
 yua.commands.laugh.response=**%s** se esta riendo!
 ## Lewd
-yua.commands.lewd.description=User is lewd
-yua.commands.lewd.response=**%s** is being lewd! | **%s** is being lewd with **%s** uwu!
+yua.commands.lewd.description=El usuario es lascivo
+yua.commands.lewd.response=**%s** esta siendo muy lascivo! | **%s** esta lascivo con **%s** uwu!
 ## Lick
-yua.commands.lick.description=User licks another user
-yua.commands.lick.response=**%s** is licking **%s**!
+yua.commands.lick.description=El usuario lame a otro usuario
+yua.commands.lick.response=**%s** esta lambiendo **%s**!
 ## Love
-yua.commands.love.description=User is in love with another user
-yua.commands.love.response=**%s** loves **%s**!
+yua.commands.love.description=El usario esta enamorado con el otro usario
+yua.commands.love.response=**%s** ama **%s**!
 ## Lurk
-yua.commands.lurk.description=User is lurking
-yua.commands.lurk.response=**%s** is lurking!
+yua.commands.lurk.description=El usuario está al acecho
+yua.commands.lurk.response=**%s** está al acecho!
 ## Mad
-yua.commands.mad.description=User is mad
-yua.commands.mad.response=**%s** is mad! | **%s** is mad at **%s**!
+yua.commands.mad.description=El usario esta molesto
+yua.commands.mad.response=**%s** esta molesto! | **%s** esta molesta a **%s**!
 ## No
-yua.commands.no.description=User is saying no
-yua.commands.no.response=**%s** says no! | **%s** disagrees with **%s**!
+yua.commands.no.description=El usario esta diciendo no
+yua.commands.no.response=**%s** dice no! | **%s** no esta de acuerdo con **%s**!
 ## Nom
-yua.commands.nom.description=User is noming another user
-yua.commands.nom.response=**%s** noms **%s**!
+yua.commands.nom.description=El usario esta comiendo otro usario
+yua.commands.nom.response=**%s** eats **%s**!
 ## Nope
-yua.commands.nope.description=User is saying nope
-yua.commands.nope.response=**%s** is saying "nope, just nope!"
+yua.commands.nope.description=El usuario dice que no
+yua.commands.nope.response=**%s** está diciendo "¡no, simplemente no!"
 ## Panic
-yua.commands.panic.description=User is panicking
-yua.commands.panic.response=**%s** is panicking! | **%s** is panicking because of **%s**!
+yua.commands.panic.description=El usario esta en pánico
+yua.commands.panic.response=**%s** esta en pánico! | **%s** está entrando en pánico debido a **%s**!
 ## Pat
-yua.commands.pat.description=User is patting another user
-yua.commands.pat.response=**%s** pats **%s**!
+yua.commands.pat.description=El usuario está dando palmaditas a otro usuario
+yua.commands.pat.response=**%s** esta dando palmaditas a **%s**!
 ## Peck
 yua.commands.peck.description=User is pecking another user
 yua.commands.peck.response=**%s** is pecking **%s**!
