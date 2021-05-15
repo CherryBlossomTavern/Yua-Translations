@@ -178,26 +178,26 @@ yua.commands.tired.response=**%s** is sleepy!
 yua.commands.vibe.description=User is vibing
 yua.commands.vibe.response=**%s** is vibin'! | **%s** is vibin' with **%s**!
 ## Wag
-yua.commands.wag.description=User is wagging 
-yua.commands.wag.response=**%s** is wagging their tail!
+yua.commands.wag.description=El usuario está moviendo 
+yua.commands.wag.response=**%s** está moviendo la cola!
 ## Wave
-yua.commands.wave.description=User is waving at another user
-yua.commands.wave.response=**%s** waves at **%s**!
+yua.commands.wave.description=El usuario está saludando a otro usuario
+yua.commands.wave.response=**%s** saluda a **%s**!
 ## Wink
-yua.commands.wink.description=User is winking at another user
-yua.commands.wink.response=**%s** is winking! | **%s** winks at **%s**!
+yua.commands.wink.description=El usuario está guiñando un ojo a otro usuario
+yua.commands.wink.response=**%s** está guiñando un ojo! | **%s** guiña un ojo a **%s**!
 ## Yes
-yua.commands.yes.description=User is saying yes
-yua.commands.yes.response=**%s** agrees! | **%s** agrees with **%s**!
+yua.commands.yes.description=El usuario dice que sí
+yua.commands.yes.response=**%s** está de acuerdo! | **%s** está de acuerdo con **%s**!
 ## Dab
-yua.commands.dab.description=User is dabbing
-yua.commands.dab.response=**%s** is dabbing! | **%s** is dabbing on **%s**!
+yua.commands.dab.description=El usario esta dabbing
+yua.commands.dab.response=**%s** esta dabbing! | **%s** esta dabbing con **%s**!
 ## Slap
-yua.commands.slap.description=User is slapping another user
-yua.commands.slap.response=**%s** is slapping **%s**!
+yua.commands.slap.description=El usuario está abofeteando a otro usuario
+yua.commands.slap.response=**%s** está abofeteando **%s**!
 ## Salute
-yua.commands.salute.description=User is saluting
-yua.commands.salute.response=**%s** is saluting! | **%s** is saluting to **%s**!
+yua.commands.salute.description=El usuario está saludando
+yua.commands.salute.response=**%s** está saludando! | **%s** está saludando a **%s**!
 ## Respect
-yua.commands.respect.description=User is paying respect
-yua.commands.respect.response=**%s** is paying respect! F!
+yua.commands.respect.description=El usuario está respetando
+yua.commands.respect.response=**%s** es respetar! ¡F!
