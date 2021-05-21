@@ -1,199 +1,298 @@
-######## Commands ########
-
-#### Roleplay >> If a roleplay command is both a towards and solo concatenate with "|", Use "%s" for name insertions
-
-## Baka
 yua.commands.baka.description=
-yua.commands.baka.response=
-## Bite
+yua.commands.baka.responses.towards=
+yua.commands.baka.responses.want=
+yua.commands.baka.counters.towards=
+yua.commands.baka.counters.want=
 yua.commands.bite.description=
-yua.commands.bite.response=
-## Blowkiss
+yua.commands.bite.responses.towards=
+yua.commands.bite.responses.want=
+yua.commands.bite.counters.towards=
+yua.commands.bite.counters.want=
 yua.commands.blowkiss.description=
-yua.commands.blowkiss.response=
-## Blush
+yua.commands.blowkiss.responses.self=
+yua.commands.blowkiss.responses.towards=
+yua.commands.blowkiss.counters.self=
+yua.commands.blowkiss.counters.towards=
 yua.commands.blush.description=
-yua.commands.blush.response=
-## Boast
+yua.commands.blush.responses.self=
+yua.commands.blush.responses.towards=
+yua.commands.blush.counters.self=
+yua.commands.blush.counters.towards=
 yua.commands.boast.description=
-yua.commands.boast.response=
-## Bonk
+yua.commands.boast.responses.self=
+yua.commands.boast.counters.self=
 yua.commands.bonk.description=
-yua.commands.bonk.response=
-## Bored
+yua.commands.bonk.responses.towards=
+yua.commands.bonk.responses.want=
+yua.commands.bonk.counters.towards=
+yua.commands.bonk.counters.want=
 yua.commands.bored.description=
-yua.commands.bored.response=
-## Bye
+yua.commands.bored.responses.self=
+yua.commands.bored.counters.self=
 yua.commands.bye.description=
-yua.commands.bye.response=
-## Cheer
+yua.commands.bye.responses.self=
+yua.commands.bye.responses.towards=
+yua.commands.bye.counters.self=
+yua.commands.bye.counters.towards=
 yua.commands.cheer.description=
-yua.commands.cheer.response=
-## Confused
+yua.commands.cheer.responses.self=
+yua.commands.cheer.responses.towards=
+yua.commands.cheer.counters.self=
+yua.commands.cheer.counters.towards=
 yua.commands.confused.description=
-yua.commands.confused.response=
-## Cry
+yua.commands.confused.responses.self=
+yua.commands.confused.counters.self=
 yua.commands.cry.description=
-yua.commands.cry.response=
-## Cute
+yua.commands.cry.responses.self=
+yua.commands.cry.responses.towards=
+yua.commands.cry.counters.self=
+yua.commands.cry.counters.towards=
 yua.commands.cute.description=
-yua.commands.cute.response=
-## Dab
+yua.commands.cute.responses.self=
+yua.commands.cute.counters.self=
 yua.commands.dab.description=
-yua.commands.dab.response=
-## Dance
+yua.commands.dab.responses.self=
+yua.commands.dab.responses.towards=
+yua.commands.dab.counters.self=
+yua.commands.dab.counters.towards=
 yua.commands.dance.description=
-yua.commands.dance.response=
-## Dead
+yua.commands.dance.responses.self=
+yua.commands.dance.responses.towards=
+yua.commands.dance.counters.self=
+yua.commands.dance.counters.towards=
 yua.commands.dead.description=
-yua.commands.dead.response=
-## Eat
+yua.commands.dead.responses.self=
+yua.commands.dead.counters.self=
 yua.commands.eat.description=
-yua.commands.eat.response=
-## Facepalm
+yua.commands.eat.responses.self=
+yua.commands.eat.responses.towards=
+yua.commands.eat.counters.self=
+yua.commands.eat.counters.towards=
 yua.commands.facepalm.description=
-yua.commands.facepalm.response=
-## Fear
+yua.commands.facepalm.responses.self=
+yua.commands.facepalm.counters.self=
 yua.commands.fear.description=
-yua.commands.fear.response=
-## Feed
+yua.commands.fear.responses.towards=
+yua.commands.fear.responses.want=
+yua.commands.fear.counters.towards=
+yua.commands.fear.counters.want=
 yua.commands.feed.description=
-yua.commands.feed.response=
-## Fight
+yua.commands.feed.responses.towards=
+yua.commands.feed.responses.want=
+yua.commands.feed.counters.towards=
+yua.commands.feed.counters.want=
 yua.commands.fight.description=
-yua.commands.fight.response=
-## Glomp
+yua.commands.fight.responses.towards=
+yua.commands.fight.responses.want=
+yua.commands.fight.counters.towards=
+yua.commands.fight.counters.want=
 yua.commands.glomp.description=
-yua.commands.glomp.response=
-## Goodmorning
+yua.commands.glomp.responses.towards=
+yua.commands.glomp.responses.want=
+yua.commands.glomp.counters.towards=
+yua.commands.glomp.counters.want=
 yua.commands.goodmorning.description=
-yua.commands.goodmorning.response=
-## Goodnight
+yua.commands.goodmorning.responses.self=
+yua.commands.goodmorning.responses.towards=
+yua.commands.goodmorning.counters.self=
+yua.commands.goodmorning.counters.towards=
 yua.commands.goodnight.description=
-yua.commands.goodnight.response=
-## Grumpy
+yua.commands.goodnight.responses.self=
+yua.commands.goodnight.responses.towards=
+yua.commands.goodnight.counters.self=
+yua.commands.goodnight.counters.towards=
 yua.commands.grumpy.description=
-yua.commands.grumpy.response=
-## Happy
+yua.commands.grumpy.responses.self=
+yua.commands.grumpy.counters.self=
 yua.commands.happy.description=
-yua.commands.happy.response=
-## Hello 
+yua.commands.happy.responses.self=
+yua.commands.happy.responses.towards=
+yua.commands.happy.counters.self=
+yua.commands.happy.counters.towards=
+yua.commands.hate.description=
+yua.commands.hate.responses.self=
+yua.commands.hate.responses.towards=
+yua.commands.hate.counters.self=
+yua.commands.hate.counters.towards=
 yua.commands.hello.description=
-yua.commands.hello.response=
-## Highfive
+yua.commands.hello.responses.self=
+yua.commands.hello.responses.towards=
+yua.commands.hello.counters.self=
+yua.commands.hello.counters.towards=
 yua.commands.highfive.description=
-yua.commands.highfive.response=
-## Hug
+yua.commands.highfive.responses.towards=
+yua.commands.highfive.responses.want=
+yua.commands.highfive.counters.towards=
+yua.commands.highfive.counters.want=
 yua.commands.hug.description=
-yua.commands.hug.response=
-## Kill
+yua.commands.hug.responses.towards=
+yua.commands.hug.responses.want=
+yua.commands.hug.counters.towards=
+yua.commands.hug.counters.want=
 yua.commands.kill.description=
-yua.commands.kill.response=
-## Kiss
+yua.commands.kill.responses.towards=
+yua.commands.kill.responses.want=
+yua.commands.kill.counters.towards=
+yua.commands.kill.counters.want=
 yua.commands.kiss.description=
-yua.commands.kiss.response=
-## Laugh
+yua.commands.kiss.responses.towards=
+yua.commands.kiss.responses.want=
+yua.commands.kiss.counters.towards=
+yua.commands.kiss.counters.want=
 yua.commands.laugh.description=
-yua.commands.laugh.response=
-## Lewd
+yua.commands.laugh.responses.self=
+yua.commands.laugh.counters.self=
 yua.commands.lewd.description=
-yua.commands.lewd.response=
-## Lick
+yua.commands.lewd.responses.self=
+yua.commands.lewd.responses.towards=
+yua.commands.lewd.counters.self=
+yua.commands.lewd.counters.towards=
 yua.commands.lick.description=
-yua.commands.lick.response=
-## Love
+yua.commands.lick.responses.towards=
+yua.commands.lick.responses.want=
+yua.commands.lick.counters.towards=
+yua.commands.lick.counters.want=
 yua.commands.love.description=
-yua.commands.love.response=
-## Lurk
+yua.commands.love.responses.towards=
+yua.commands.love.responses.want=
+yua.commands.love.counters.towards=
+yua.commands.love.counters.want=
 yua.commands.lurk.description=
-yua.commands.lurk.response=
-## Mad
+yua.commands.lurk.responses.self=
+yua.commands.lurk.counters.self=
 yua.commands.mad.description=
-yua.commands.mad.response=
-## No
+yua.commands.mad.responses.self=
+yua.commands.mad.responses.towards=
+yua.commands.mad.counters.self=
+yua.commands.mad.counters.towards=
 yua.commands.no.description=
-yua.commands.no.response=
-## Nom
+yua.commands.no.responses.self=
+yua.commands.no.responses.towards=
+yua.commands.no.counters.self=
+yua.commands.no.counters.towards=
 yua.commands.nom.description=
-yua.commands.nom.response=
-## Nope
+yua.commands.nom.responses.towards=
+yua.commands.nom.responses.want=
+yua.commands.nom.counters.towards=
+yua.commands.nom.counters.want=
 yua.commands.nope.description=
-yua.commands.nope.response=
-## Panic
+yua.commands.nope.responses.self=
+yua.commands.nope.counters.self=
 yua.commands.panic.description=
-yua.commands.panic.response=
-## Pat
+yua.commands.panic.responses.self=
+yua.commands.panic.responses.towards=
+yua.commands.panic.counters.self=
+yua.commands.panic.counters.towards=
 yua.commands.pat.description=
-yua.commands.pat.response=
-## Peck
+yua.commands.pat.responses.towards=
+yua.commands.pat.responses.want=
+yua.commands.pat.counters.towards=
+yua.commands.pat.counters.want=
 yua.commands.peck.description=
-yua.commands.peck.response=
-## Poke
+yua.commands.peck.responses.towards=
+yua.commands.peck.responses.want=
+yua.commands.peck.counters.towards=
+yua.commands.peck.counters.want=
 yua.commands.poke.description=
-yua.commands.poke.response=
-## Pout
+yua.commands.poke.responses.towards=
+yua.commands.poke.responses.want=
+yua.commands.poke.counters.towards=
+yua.commands.poke.counters.want=
 yua.commands.pout.description=
-yua.commands.pout.response=
-## Respect
+yua.commands.pout.responses.self=
+yua.commands.pout.responses.towards=
+yua.commands.pout.counters.self=
+yua.commands.pout.counters.towards=
 yua.commands.respect.description=
-yua.commands.respect.response=
-## Run
+yua.commands.respect.responses.self=
+yua.commands.respect.counters.self=
 yua.commands.run.description=
-yua.commands.run.response=
-## Sad
+yua.commands.run.responses.self=
+yua.commands.run.responses.towards=
+yua.commands.run.counters.self=
+yua.commands.run.counters.towards=
 yua.commands.sad.description=
-yua.commands.sad.response=
-## Salute
+yua.commands.sad.responses.self=
+yua.commands.sad.responses.towards=
+yua.commands.sad.counters.self=
+yua.commands.sad.counters.towards=
 yua.commands.salute.description=
-yua.commands.salute.response=
-## Shrug
+yua.commands.salute.responses.self=
+yua.commands.salute.responses.towards=
+yua.commands.salute.counters.self=
+yua.commands.salute.counters.towards=
 yua.commands.shrug.description=
-yua.commands.shrug.response=
-## Shy
+yua.commands.shrug.responses.self=
+yua.commands.shrug.counters.self=
 yua.commands.shy.description=
-yua.commands.shy.response=
-## Sip
+yua.commands.shy.responses.self=
+yua.commands.shy.counters.self=
 yua.commands.sip.description=
-yua.commands.sip.response=
-## Slap
+yua.commands.sip.responses.self=
+yua.commands.sip.responses.towards=
+yua.commands.sip.counters.self=
+yua.commands.sip.counters.towards=
 yua.commands.slap.description=
-yua.commands.slap.response=
-## Sleep
+yua.commands.slap.responses.towards=
+yua.commands.slap.responses.want=
+yua.commands.slap.counters.towards=
+yua.commands.slap.counters.want=
 yua.commands.sleep.description=
-yua.commands.sleep.response=
-## Smart
+yua.commands.sleep.responses.self=
+yua.commands.sleep.counters.self=
 yua.commands.smart.description=
-yua.commands.smart.response=
-## Smile
+yua.commands.smart.responses.self=
+yua.commands.smart.responses.towards=
+yua.commands.smart.counters.self=
+yua.commands.smart.counters.towards=
 yua.commands.smile.description=
-yua.commands.smile.response=
-## Stab
+yua.commands.smile.responses.towards=
+yua.commands.smile.responses.want=
+yua.commands.smile.counters.towards=
+yua.commands.smile.counters.want=
 yua.commands.stab.description=
-yua.commands.stab.response=
-## Stare
+yua.commands.stab.responses.towards=
+yua.commands.stab.responses.want=
+yua.commands.stab.counters.towards=
+yua.commands.stab.counters.want=
 yua.commands.stare.description=
-yua.commands.stare.response=
-## Thumbsup
+yua.commands.stare.responses.self=
+yua.commands.stare.responses.towards=
+yua.commands.stare.counters.self=
+yua.commands.stare.counters.towards=
 yua.commands.thumbsup.description=
-yua.commands.thumbsup.response=
-## Tickle
+yua.commands.thumbsup.responses.self=
+yua.commands.thumbsup.responses.towards=
+yua.commands.thumbsup.counters.self=
+yua.commands.thumbsup.counters.towards=
 yua.commands.tickle.description=
-yua.commands.tickle.response=
-## Tired
+yua.commands.tickle.responses.towards=
+yua.commands.tickle.responses.want=
+yua.commands.tickle.counters.towards=
+yua.commands.tickle.counters.want=
 yua.commands.tired.description=
-yua.commands.tired.response=
-## Vibe
+yua.commands.tired.responses.self=
+yua.commands.tired.counters.self=
 yua.commands.vibe.description=
-yua.commands.vibe.response=
-## Wag
+yua.commands.vibe.responses.self=
+yua.commands.vibe.responses.towards=
+yua.commands.vibe.counters.self=
+yua.commands.vibe.counters.towards=
 yua.commands.wag.description=
-yua.commands.wag.response=
-## Wave
+yua.commands.wag.responses.self=
+yua.commands.wag.counters.self=
 yua.commands.wave.description=
-yua.commands.wave.response=
-## Wing
-yua.commands.wing.description=
-yua.commands.wing.response=
-## Yes
+yua.commands.wave.responses.towards=
+yua.commands.wave.responses.want=
+yua.commands.wave.counters.towards=
+yua.commands.wave.counters.want=
+yua.commands.wink.description=
+yua.commands.wink.responses.self=
+yua.commands.wink.responses.towards=
+yua.commands.wink.counters.self=
+yua.commands.wink.counters.towards=
 yua.commands.yes.description=
-yua.commands.yes.response=
+yua.commands.yes.responses.self=
+yua.commands.yes.responses.towards=
+yua.commands.yes.counters.self=
+yua.commands.yes.counters.towards=
