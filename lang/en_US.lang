@@ -312,10 +312,10 @@ yua.commands.smart.counters.self=%s has been big brain %s times
 yua.commands.smart.counters.towards=%s has called others smart %s times and %s has been called smart %s times
 
 yua.commands.smile.description=User is smiling at another user
-yua.commands.smile.responses.towards=**%s** is smiling!
-yua.commands.smile.responses.want=**%s** is smiling at **%s**!
+yua.commands.smile.responses.towards=**%s** is smiling at **%s**!
+yua.commands.smile.responses.self=**%s** is smiling!
 yua.commands.smile.counters.towards=%s has smiled %s times
-yua.commands.smile.counters.want=%s has smilled at others %s times and %s has been smiled at %s times
+yua.commands.smile.counters.self=%s has smilled at others %s times and %s has been smiled at %s times
 
 yua.commands.stab.description=User is stabbing another user
 yua.commands.stab.responses.towards=**%s** is stabbing **%s**!
