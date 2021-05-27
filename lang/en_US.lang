@@ -184,6 +184,8 @@ yua.commands.kiss.counters.want=%s has wanted to be kissed %s times
 yua.commands.laugh.description=User is laughing
 yua.commands.laugh.responses.self=**%s** is laughing!
 yua.commands.laugh.counters.self=%s has laughed %s times
+yua.commands.laugh.responses.towards=**%s** is laughing at **%s**
+yua.commands.laugh.counters.towards=%s has laughed %s times and %s has been laughed at %s many times
 
 yua.commands.lewd.description=User is lewd
 yua.commands.lewd.responses.self=**%s** is being lewd!
