@@ -374,3 +374,7 @@ yua.commands.yes.responses.self=**%s** agrees!
 yua.commands.yes.responses.towards=**%s** agrees with **%s**
 yua.commands.yes.counters.self=%s has agreed %s times
 yua.commands.yes.counters.towards=%s has been agreed with %s times and %s has agreed with others %s times
+
+yua.commands.whatever.description=User says whatever
+yua.commands.whatever.reponses.self=**%s** is saying whatever!
+yua.commands.whatever.counters.self=%s has said whatever %s times
