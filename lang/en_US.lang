@@ -25,7 +25,7 @@ yua.commands.blowkiss.description=User is blowing a kiss to another user
 yua.commands.blowkiss.responses.self=**%s** is blowing a kiss! Mwah!
 yua.commands.blowkiss.responses.towards=**%s** blows a kiss to **%s**!
 yua.commands.blowkiss.counters.self=%s has blown kisses %s times
-yua.commands.blowkiss.counters.towards=%s has recieved caught kisses %s times and %s has blown kisses to others %s times
+yua.commands.blowkiss.counters.towards=%s has caught kisses %s times and %s has blown kisses to others %s times
 
 yua.commands.blush.description=User is blushing because of another user
 yua.commands.blush.responses.self=**%s** is blushing!
