@@ -21,11 +21,11 @@ yua.commands.bite.responses.want=**%s** wants to be bitten
 yua.commands.bite.counters.towards=%s has been bitten %s times and %s has bitten others %s times
 yua.commands.bite.counters.want=%s has wanted to be bitten %s times
 
-yua.commands.blowkiss.description=User is giving a blowkiss to another user
+yua.commands.blowkiss.description=User is blowing a kiss to another user
 yua.commands.blowkiss.responses.self=**%s** is blowing a kiss! Mwah!
 yua.commands.blowkiss.responses.towards=**%s** blows a kiss to **%s**!
 yua.commands.blowkiss.counters.self=%s has blown kisses %s times
-yua.commands.blowkiss.counters.towards=%s has recieved blown kisses %s times and %s has blown kisses to others %s times
+yua.commands.blowkiss.counters.towards=%s has caught kisses %s times and %s has blown kisses to others %s times
 
 yua.commands.blush.description=User is blushing because of another user
 yua.commands.blush.responses.self=**%s** is blushing!
@@ -103,19 +103,19 @@ yua.commands.fear.description=User fears another user
 yua.commands.fear.responses.towards=**%s** fears **%s**!
 yua.commands.fear.responses.want=**%s** wants to be afraid of someone!
 yua.commands.fear.counters.towards=%s has made %s people afraid of them and %s has been afraid of others %s times
-yua.commands.fear.counters.want=%s has wanted to be afraid of others %s times
+yua.commands.fear.counters.want=%s has wanted to fear others %s times
 
 yua.commands.feed.description=User is feeding another user
 yua.commands.feed.responses.towards=**%s** is feeding **%s**!
 yua.commands.feed.responses.want=**%s** wants to be fed!
 yua.commands.feed.counters.towards=%s has been fed %s times and %s has fed others %s times
-yua.commands.feed.counters.want=%s has wanted to be fed %s times
+yua.commands.feed.counters.want=%s has wanted food %s times
 
 yua.commands.fight.description=User is fighting another user
 yua.commands.fight.responses.towards=**%s** is fighting **%s**!
 yua.commands.fight.responses.want=**%s** wants to fight someone!
 yua.commands.fight.counters.towards=%s has been fought %s times and %s has fought others %s times
-yua.commands.fight.counters.want=%s has wanted to fight others %s times
+yua.commands.fight.counters.want=%s has wanted to fight %s times
 
 yua.commands.glomp.description=User is glomping another user
 yua.commands.glomp.responses.towards=**%s** is running for a hug with **%s**!
@@ -123,13 +123,13 @@ yua.commands.glomp.responses.want=**%s** wants to be glomped!
 yua.commands.glomp.counters.towards=%s has been glomped %s times and %s has glomped others %s times
 yua.commands.glomp.counters.want=%s has wanted to be glomped %s times
 
-yua.commands.goodmorning.description=User is greeting goodmorning to another user
+yua.commands.goodmorning.description=User is saying goodmorning to another user
 yua.commands.goodmorning.responses.self=**%s** wishes everyone a good morning!
 yua.commands.goodmorning.responses.towards=**%s** wishes **%s** a good morning!
 yua.commands.goodmorning.counters.self=%s has wished others good morning %s times
 yua.commands.goodmorning.counters.towards=%s has been wished good morning %s times and %s has wished others good morning %s times
 
-yua.commands.goodnight.description=User is greeting goodnight to another user
+yua.commands.goodnight.description=User is saying goodnight to another user
 yua.commands.goodnight.responses.self=**%s** wishes everyone a good night!
 yua.commands.goodnight.responses.towards=**%s** wishes **%s** a good night!
 yua.commands.goodnight.counters.self=%s has wished others good night %s times
@@ -155,12 +155,12 @@ yua.commands.hello.description=User is waving hi to another user
 yua.commands.hello.responses.self=**%s** is saying hello!
 yua.commands.hello.responses.towards=**%s** is saying hello to **%s**!
 yua.commands.hello.counters.self=%s has said hello %s times
-yua.commands.hello.counters.towards=%s has been told hello %s times and %s has said hello %s times
+yua.commands.hello.counters.towards=%s has been greeted %s times and %s has greeted others %s times
 
 yua.commands.highfive.description=User is highfiving another user
 yua.commands.highfive.responses.towards=**%s** highfive **%s**!
 yua.commands.highfive.responses.want=**%s** wants a highfive!
-yua.commands.highfive.counters.towards=%s has been highfived %s times and %s has highfived others %s times
+yua.commands.highfive.counters.towards=%s has been highfived %s times and %s has given highfives to others %s times
 yua.commands.highfive.counters.want=%s has wanted a highfive %s times
 
 yua.commands.hug.description=User is hugging another user
@@ -171,15 +171,15 @@ yua.commands.hug.counters.want=%s has wanted to be hugged %s times
 
 yua.commands.kill.description=User is killing another user
 yua.commands.kill.responses.towards=**%s** killed **%s**!
-yua.commands.kill.responses.want=**%s** wants to be killed!
+yua.commands.kill.responses.want=**%s** wants to be killed :(
 yua.commands.kill.counters.towards=%s has been killed %s times and %s has killed others %s times
 yua.commands.kill.counters.want=%s has wanted to be killed %s times
 
 yua.commands.kiss.description=User is kissing another user
 yua.commands.kiss.responses.towards=**%s** kisses **%s**!
 yua.commands.kiss.responses.want=**%s** wants a kiss!
-yua.commands.kiss.counters.towards=%s has been kissed %s times and %s has kissed others %s times
-yua.commands.kiss.counters.want=%s has wanted to be kissed %s times
+yua.commands.kiss.counters.towards=%s has been kissed %s times and %s gave kisses to others %s times
+yua.commands.kiss.counters.want=%s has wanted kisses %s times
 
 yua.commands.laugh.description=User is laughing
 yua.commands.laugh.responses.self=**%s** is laughing!
@@ -197,13 +197,13 @@ yua.commands.lick.description=User is licking another user
 yua.commands.lick.responses.towards=**%s** is licking **%s**!
 yua.commands.lick.responses.want=**%s** wants to be licked!
 yua.commands.lick.counters.towards=%s has been licked %s times and %s has licked others %s times
-yua.commands.lick.counters.want=%s has wanted to be licked %s times
+yua.commands.lick.counters.want=%s has wanted a lick %s times
 
 yua.commands.love.description=User loves another user
 yua.commands.love.responses.towards=**%s** loves **%s**!
 yua.commands.love.responses.want=**%s** wants to be loved! Aww ; - ;
 yua.commands.love.counters.towards=%s has been loved %s times and %s has loved others %s times
-yua.commands.love.counters.want=%s has wanted to be loved %s times
+yua.commands.love.counters.want=%s has wanted love %s times
 
 yua.commands.lurk.description=User is lurking
 yua.commands.lurk.responses.self=**%s** is lurking!
@@ -225,7 +225,7 @@ yua.commands.nom.description=User is nomming another user
 yua.commands.nom.responses.towards=**%s** noms **%s**!
 yua.commands.nom.responses.want=**%s** wants to be nommed!
 yua.commands.nom.counters.towards=%s has been nommed %s times and %s has nommed others %s times
-yua.commands.nom.counters.want=%s has wanted to be nommed %s times
+yua.commands.nom.counters.want=%s has wanted noms %s times
 
 yua.commands.nope.description=User says nope
 yua.commands.nope.responses.self=**%s** is saying "nope, just nope!"
@@ -353,7 +353,7 @@ yua.commands.vibe.responses.towards=**%s** is vibin' with **%s**!
 yua.commands.vibe.counters.self=%s has passed the vibe check %s times
 yua.commands.vibe.counters.towards=%s has been vibed with %s times and %s has vibed with others %s times
 
-yua.commands.wag.description=User is wagging
+yua.commands.wag.description=User wags their tail
 yua.commands.wag.responses.self=**%s** is wagging their tail!
 yua.commands.wag.counters.self=%s has wagged their tail %s times
 
