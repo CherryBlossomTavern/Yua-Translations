@@ -185,7 +185,7 @@ yua.commands.laugh.description=User is laughing
 yua.commands.laugh.responses.self=**%s** is laughing!
 yua.commands.laugh.counters.self=%s has laughed %s times
 yua.commands.laugh.responses.towards=**%s** is laughing at **%s**
-yua.commands.laugh.counters.towards=%s has laughed %s times and %s has been laughed at %s many times
+yua.commands.laugh.counters.towards=%s has been laughed at %s times and %s has laughed %s times
 
 yua.commands.lewd.description=User is lewd
 yua.commands.lewd.responses.self=**%s** is being lewd!
@@ -370,7 +370,7 @@ yua.commands.wink.counters.self=%s has winked %s times
 yua.commands.wink.counters.towards=%s has been winked at %s times and %s has winked at others %s times
 
 yua.commands.whatever.description=User says whatever
-yua.commands.whatever.reponses.self=**%s** is saying whatever!
+yua.commands.whatever.responses.self=**%s** is saying whatever!
 yua.commands.whatever.counters.self=%s has said whatever %s times
 
 yua.commands.yes.description=User is approving another user's decisions
